@@ -1,6 +1,6 @@
 # Specify the provider and region
 provider "aws" {
-  region = "us-west-2" # Replace with your desired region
+  region = "ap-southeast-2" # Replace with your desired region
 }
 
 # Create a security group to allow SSH access
