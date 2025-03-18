@@ -1,3 +1,10 @@
+# Github actions
+
+actions/checkout@v2 - This action checks-out your repository under $GITHUB_WORKSPACE
+
+hashicorp/setup-terraform action is a JavaScript action that sets up Terraform CLI in your GitHub Actions workflow by downloading a specific version of Terraform CLI and adding it to the PATH.
+
+
 # terraform
 
 
